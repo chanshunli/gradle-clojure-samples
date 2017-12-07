@@ -1,5 +1,5 @@
 plugins {
-  id 'gradle-clojure.clojure' version '0.3.0'
+  id 'gradle-clojure.clojure' version '0.3.1'
 }
 
 group = 'org.sample'
